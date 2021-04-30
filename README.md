@@ -1,2 +1,2 @@
-# UploadedFairySynd
-This is the newest syndication of Uploaded Fairy.
+# uploadedfairySynd
+Syndicated version of Uploaded Fairy.
