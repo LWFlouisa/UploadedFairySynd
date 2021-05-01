@@ -3,15 +3,14 @@ layout: page
 title: About
 ---
 # About Uploaded Fairy
-Uploaded Fairy is a Post Apocalyptic webcomic about the aftermath of the invasions by the French and Japanese in a future crumbled United  States, and the eventual civil war between French and Japanese  controlled American factions. It also ventures into the Cyberpunk world, where a young hacker finds a mysterious game that takes her to a  fantasy world called Voreth's Promise.
+Hemato-Tomato is an apprentice executioner to her father, and is in love with her best friend Ehena-Maerie. However, she does not want to inherit the job of state-headswoman. Yet there is a darker secret that prevents her from living her life as a normal trans girl: her autosanguephilia. She wants to ran away to the midwest, but Ehena-Maerie leaves her behind. When she returns, Ehena is to be executed by Hemato herself. Torn betweem her sexual desires for Ehena's neck, and her desires to not see only true justice prevail, she must choose: Ehena's blood or Ehena's love.
 
-This syndication reads right to left.
+Nadine Melville, a trans woman with a similar secret addiction to blood, lives as a normal person. But when she finds a mysterious computer game that allows her to live out her fantasies, she initially decides to give into her impulses. However when the choice is between getting permanent brain damage with Hemato taunting her every move, and saving Millie who she gradually comes to live, she must choose between death or rescuing a princess she hates that reminds her of beautiful women she despises, being jelouse of their beutiy, to return home to the real world.
 
-It is also partially in Hafestran Conlang. There are two versions:
+Set after the Franco-Japanese wars, Ros wierudos Egunos mark the pavement of a new era in blood.
+
+This syndication reads in Takegaki reading order: top to bottom, then right to left.
 
 Uploaded Fairy Era: https://hafestrahandbook.glitch.me/
 O Raphael Era: https://personaljournal.ca/hafestra-conlang/
-
-Uploaded Fairy era is early Hafestra, which was closer to French. O Raphael era ( modern Hafestra ) is still a romance language, but closer to Japanese do to the Japanese loan words. But it is not 100% mutually intelligible.
-
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/3ec64388-249a-430b-b86a-181ba6d27ba9" frameborder="0" allowfullscreen></iframe>
+Standardized Hafestra: https://www.wattpad.com/story/268107938-hafestran-handbook-vocabular-and-grammar
