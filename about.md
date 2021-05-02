@@ -2,6 +2,12 @@
 layout: page
 title: About
 ---
+<style>
+  i {
+    font-size: 8px;
+  }
+</style>
+  
 # About Uploaded Fairy
 <img src="https://github.com/LWFlouisa/Homepage/blob/master/Images/hemato.jpeg?raw=true" width="800px" height="550px"/>
 
