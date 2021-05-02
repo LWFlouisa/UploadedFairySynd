@@ -11,7 +11,7 @@ title: About
 </style>
   
 # About Uploaded Fairy
-<img src="https://github.com/LWFlouisa/Homepage/blob/master/Images/hemato.jpeg?raw=true" width="800px" height="550px"/>
+<img src="https://github.com/LWFlouisa/UFImages/blob/main/images/uploadedfairy_P28.png?raw=true" width="800px" height="550px"/>
 
 <i>Novella version: http://uploadedfairy.thecomicseries.com/audiodrama/<br /><br />Originally this was intended as a suicide letter, back when I didn't think I'd find a good gender therapist. I also still have autosanguephilia. I consider myself an antiquated leftist that believes in personal responcibility toward working to make the world a better place. Nadine represents my anxieties as a trans woman. Because the story is extremely personal, I have no intention of trying to market it. I will be marketing my other novella adaptations.</i>
 
