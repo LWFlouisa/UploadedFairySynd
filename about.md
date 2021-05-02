@@ -13,7 +13,7 @@ title: About
 # About Uploaded Fairy
 <img src="https://github.com/LWFlouisa/Homepage/blob/master/Images/hemato.jpeg?raw=true" width="800px" height="550px"/>
 
-<i>Novella version: http://uploadedfairy.thecomicseries.com/audiodrama/</i>
+<i>Novella version: http://uploadedfairy.thecomicseries.com/audiodrama/<br /><br />Originally this was intended as a suicide later, back when I didn't think I'd find a good gender therapist. I also still have autosanguephilia. I consider myself an antiquated leftist that believes in personal responcibility toward working to make the world a better place. Nadine represents my anxieties as a trans woman.</i>
 
 Hemato-Tomato is an apprentice executioner to her father, and is in love with her best friend Ehena-Maerie. However, she does not want to inherit the job of state-headswoman. Yet there is a darker secret that prevents her from living her life as a normal trans girl: her autosanguephilia. She wants to ran away to the midwest, but Ehena-Maerie leaves her behind. When she returns, Ehena is to be executed by Hemato herself. Torn betweem her sexual desires for Ehena's neck, and her desires to not see only true justice prevail, she must choose: Ehena's blood or Ehena's love.
 
