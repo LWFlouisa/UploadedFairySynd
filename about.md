@@ -18,3 +18,5 @@ This syndication reads in Takegaki reading order: top to bottom, then right to l
 Uploaded Fairy Era: https://hafestrahandbook.glitch.me/
 O Raphael Era: https://personaljournal.ca/hafestra-conlang/
 Standardized Hafestra: https://www.wattpad.com/story/268107938-hafestran-handbook-vocabular-and-grammar
+
+<iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/265963466" ></iframe>
