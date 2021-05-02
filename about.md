@@ -13,7 +13,7 @@ title: About
 # About Uploaded Fairy
 <img src="https://github.com/LWFlouisa/Homepage/blob/master/Images/hemato.jpeg?raw=true" width="800px" height="550px"/>
 
-<i>By the way the reason I hesitate to market this, is because I originally intended this as a personal letter back when I wrote the novel. It's however more obvious in the novella version: http://uploadedfairy.thecomicseries.com/audiodrama/ That doesn't mean it's a memoir, just that there is an element of Hemato-Tomato that is true.</i>
+<i>Novella version: http://uploadedfairy.thecomicseries.com/audiodrama/</i>
 
 Hemato-Tomato is an apprentice executioner to her father, and is in love with her best friend Ehena-Maerie. However, she does not want to inherit the job of state-headswoman. Yet there is a darker secret that prevents her from living her life as a normal trans girl: her autosanguephilia. She wants to ran away to the midwest, but Ehena-Maerie leaves her behind. When she returns, Ehena is to be executed by Hemato herself. Torn betweem her sexual desires for Ehena's neck, and her desires to not see only true justice prevail, she must choose: Ehena's blood or Ehena's love.
 
